@@ -1,0 +1,15 @@
+{
+  "name": "@scola/view-gsap",
+  "version": "0.0.0",
+  "description": "Export GSAP subset",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scola84/node-view-gsap.git"
+  },
+  "author": "M.C. van den Boogaart <scola@kvdb.name>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "gsap": "^1.18.2"
+  }
+}
